@@ -97,7 +97,8 @@ Verified the obtained *QR-code* with the Google_lens:
 
 <hr>
 
-Created and maintained by [@Sneha Chauhan][1].
+Created and maintained by [@Aditi Gulati][1] [@Sneha Chauhan][2] [@Jagriti Verma][2].
 
 [1]: https://github.com/aditi-gulati
 [2]: https://github.com/i-am-SnehaChauhan
+[3]: https://github.com/Jagriti027
