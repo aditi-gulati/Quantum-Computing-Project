@@ -99,4 +99,5 @@ Verified the obtained *QR-code* with the Google_lens:
 
 Created and maintained by [@Sneha Chauhan][1].
 
-[1]: https://github.com/i-am-SnehaChauhan
+[1]: https://github.com/aditi-gulati
+[2]: https://github.com/i-am-SnehaChauhan
